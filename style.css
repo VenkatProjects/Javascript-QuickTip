@@ -5,6 +5,11 @@ html
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
+body
+{
+    background-image: linear-gradient(69deg,#5e59be,#af3b8a,#e9e724,#00d4ff);
+    margin-bottom: -20px;
+}
 main
 {
     max-width: 50rem;
@@ -12,8 +17,9 @@ main
     background: linear-gradient(30deg,rgb(37, 158, 142),rgb(64, 163, 55));
     padding: 3rem 1.6rem 6rem 1.6rem;
     border-radius: 4rem;
-    box-shadow:0 2px 2px lightgray;
+    box-shadow:0 2px -1px lightgray;
 }
+
 
 h1
 {
@@ -103,5 +109,36 @@ input[type="number"]
 .range::-moz-focus-outer
 {
     border: 0;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:visited {
+    /* color: pink; */
+    color: rgb(23, 72, 231);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+footer{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin-left: -8px;
+    margin-right: -8px;
+    /* margin-bottom:-50px; */
+    /* margin-top:80px; */
+    background: #3dc0c0;
 }
 
