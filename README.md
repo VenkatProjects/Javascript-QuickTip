@@ -6,11 +6,14 @@
 
  ## Technologies
 
- -HTML
- -Javascript
+ - HTML
+ - Javascript
  
  ### Features
 
  - Can Spilt the Tip upto 10 people
  - Calculate along with Tip%
 
+
+#### Reference
+![Javascript](https://fun-javascript-projects.com/account/)
