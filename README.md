@@ -12,7 +12,7 @@
  ### Features
 
  - Can Spilt the Tip upto 10 people
- - Calculate along with Tip%
+ - Calculate the bill along with Tip%
 
 
 #### Reference
